@@ -2,17 +2,19 @@
 
 #### I am a fourth-year Computer Engineering student. My workspace focuses on **mobile application development** and **artificial intelligence**. 
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 - 🔭 I’m currently focusing on **mobile application development with Flutter**.  
 - 🌱 I’m learning **artificial intelligence**, **data science**, and **machine learning**. 
 - 👯 I’m looking to collaborate on innovative **mobile applications** and **AI-based projects**.   
 - 📫 How to reach me: [akiffkaraakif217@gmail.com](mailto:akiffkaraakif217@gmail.com)
 
-## 🌐 Connect with Me
+
+### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mehmet-akif-karaa) 
 [![Kaggle](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.kaggle.com/akifkara217) 
 
-## My Skills & Tools
+
+### My Skills & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
