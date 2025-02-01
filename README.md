@@ -1,9 +1,9 @@
 <p align="center">
-  <h2>Hi there 👋, I'm Akif</h2>
+  <strong>Hi there 👋, I'm Akif</strong>
 </p>
 
 <p align="center">
-  <h4>I am a fourth-year Computer Engineering student. My workspace focuses on <strong>mobile application development</strong> and <strong>artificial intelligence</strong>.</h4>
+  I am a fourth-year Computer Engineering student. My workspace focuses on <strong>mobile application development</strong> and <strong>artificial intelligence</strong>.
 </p>
 
 
