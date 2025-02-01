@@ -1,6 +1,11 @@
-## Hi there 👋, I'm Akif
+<p align="center">
+  ## Hi there 👋, I'm Akif
+</p>
 
-#### I am a fourth-year Computer Engineering student. My workspace focuses on **mobile application development** and **artificial intelligence**. 
+<p align="center">
+  #### I am a fourth-year Computer Engineering student. My workspace focuses on **mobile application development** and **artificial intelligence**.
+</p>
+
 
 ### 👨‍💻 About Me
 
@@ -16,7 +21,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/akifkara217)
 
 
-## My Skills & Tools
+### My Skills & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
