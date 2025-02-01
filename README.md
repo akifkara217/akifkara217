@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Akif
 
+I am a fourth-year Computer Engineering student. My workspace focuses on **mobile application development** and **artificial intelligence**. 
+
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mehmet-akif-karaa) 
 [![Kaggle](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.kaggle.com/akifkara217) 
