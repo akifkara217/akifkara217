@@ -11,6 +11,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mehmet-akif-karaa) 
 [![Kaggle](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.kaggle.com/akifkara217) 
 
+## My Skills & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+
 <!--
 **akifkara217/akifkara217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
