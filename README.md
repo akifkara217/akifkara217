@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Akif
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifkara&layout=compact&theme=radical)
 
-## 🌍 Connect With Me
+### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mehmet-akif-karaa) 
 [![Kaggle](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.kaggle.com/akifkara217) 
 
