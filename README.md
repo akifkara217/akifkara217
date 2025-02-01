@@ -1,10 +1,11 @@
 <p align="center">
-  ## Hi there 👋, I'm Akif
+  <h2>Hi there 👋, I'm Akif</h2>
 </p>
 
 <p align="center">
-  #### I am a fourth-year Computer Engineering student. My workspace focuses on **mobile application development** and **artificial intelligence**.
+  <h4>I am a fourth-year Computer Engineering student. My workspace focuses on <strong>mobile application development</strong> and <strong>artificial intelligence</strong>.</h4>
 </p>
+
 
 
 ### 👨‍💻 About Me
