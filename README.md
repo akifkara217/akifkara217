@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Akif
 
-## 📊 GitHub Stats
-![Akif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetakifkara&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifkara&layout=compact&theme=radical)  
+
+## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mehmet-akif-karaa)  
+[![Kaggle](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.kaggle.com/akifkara217)  
+
 <!--
 **akifkara217/akifkara217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
