@@ -12,11 +12,7 @@
 - 👯 I’m looking to collaborate on innovative **mobile applications** and **AI-based projects**.
 - 📫 How to reach me: **akiffkaraakif217@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akifkara217&label=Profile%20views&color=0e75b6&style=flat" alt="akifkara217" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifkara217" alt="akifkara217" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
