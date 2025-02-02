@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focusing on **mobile application development with Flutter**.  
+- 🔭 I’m currently working on **mobile application development with Flutter**.  
 - 🌱 I’m learning **artificial intelligence**, **data science**, and **machine learning**. 
 - 👯 I’m looking to collaborate on innovative **mobile applications** and **AI-based projects**.   
 
