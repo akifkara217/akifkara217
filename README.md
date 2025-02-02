@@ -10,37 +10,13 @@
 - 🔭 I’m currently working on **mobile application development with Flutter**.  
 - 🌱 I’m learning **artificial intelligence**, **data science**, and **machine learning**. 
 - 👯 I’m looking to collaborate on innovative **mobile applications** and **AI-based projects**.
-- 📫 How to reach me **akiffkaraakif217@gmail.com**
-
-
-### 🌐 Connect with Me
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehmet-akif-karaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mehmet-akif-karaa" height="30" width="40" /></a>
-<a href="https://kaggle.com/akifkara217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akifkara217" height="30" width="40" /></a>
-</p>
-
-
-### 💻 My Skills & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<h1 align="center">Hi 👋, I'm Akif</h1>
-<h3 align="center">I am a fourth-year Computer Engineering student. My workspace focuses on mobile application development and artificial intelligence.</h3>
+- 📫 How to reach me: **akiffkaraakif217@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifkara217&label=Profile%20views&color=0e75b6&style=flat" alt="akifkara217" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifkara217" alt="akifkara217" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **akiffkaraakif217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
