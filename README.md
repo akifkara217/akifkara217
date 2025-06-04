@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Akif</h1>
 
-<h3 align="center">I am a fourth-year Computer Engineering student. My workspace focuses on <strong>mobile application development</strong> and <strong>artificial intelligence</strong>.</h3>
+<h3 align="center">I am a newly graduated computer engineer.. My workspace focuses on <strong>mobile application development</strong> and <strong>artificial intelligence</strong>.</h3>
 
 
 
